@@ -27,13 +27,18 @@
      💸prices💸
      </h1>
      
-   **[normal computer prices](https://www.bing.com/shop?q=computer+prices&FORM=SHOPTB)** <br>
+  - **[normal computer prices](https://www.bing.com/shop?q=computer+prices&FORM=SHOPTB)   | normal 100-500**  💸 <br>
+  - **[gaming computer prices](https://www.bing.com/shop?q=gaming+computer&FORM=SHOPTB)   | gaming 500-2000** 💸 <br>
+  - **[working computer prices](https://www.bing.com/shop?q=working+computer&FORM=SHOPTB) | working 125-300** 💸
+ <br>
+
+
+![This is an image](https://pngimg.com/uploads/computer_pc/computer_pc_PNG17489.png)
+
+
+
+  **[page 2](https://en.wikipedia.org/wiki/Computer?msclkid=ba2e4f59d06211ec9c7bd3116137c845)**
   
-   - ![#c5f015 hey](https://via.placeholder.com/15/c5f015/000000?text=+) <br>
-    ![#f03c15 hey](https://via.placeholder.com/15/f03c15/000000?text=+) <br>
-    
-    
-    - tex in red
 
     
     
