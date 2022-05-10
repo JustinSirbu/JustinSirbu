@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
      
   
   <div style="background:red;">
@@ -22,9 +21,9 @@
    -  Mouse <br>
    -  Keyboard <br>
    -  Monitor <br>
-   <head>
+       - [x] [Computer](https://www.bing.com/search?q=computer+working&qs=n&form=QBRE&sp=-1&pq=computer+working&sc=8-16&sk=&cvid=5AEE29CDD11C46F9896CCEB6AD4F5D68)<br>
      
    
 
   
-</html>
+
